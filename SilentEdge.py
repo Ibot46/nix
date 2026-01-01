@@ -25,8 +25,8 @@ class SilentEdge:
         self.email_config = {
             'smtp_server': 'smtp.gmail.com',
             'smtp_port': 587,
-            'email': 'd48295548@gmail.com',
-            'password': 'ichmagbastiB1'
+            'email': 'gmail.com',
+            'password': 'pass'
         }
         
         # System Informationen
